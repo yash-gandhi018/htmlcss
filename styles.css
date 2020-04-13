@@ -1,0 +1,167 @@
+.top-container{
+  background: #EAF6F6;
+  position: relative;
+  margin-top: 0;
+font-family: 'Princess Sofia', cursive;
+
+}
+.skill-row{
+  width: 50%;
+  position: relative;
+  margin: auto;
+  margin-top: 20px;
+}
+.left{
+  margin: 20px auto 20px;
+  position: relative;
+  width: 50%;
+
+}
+.normal{
+  font-weight: normal;
+  margin-bottom: 40px;
+
+}
+
+.middle-container{
+font-family: 'Adamina', serif;
+position: relative;
+
+}
+.margin{
+  margin-top: 20px;
+
+}
+
+
+.bottom-container{
+font-family: 'Adamina', serif;
+position: relative;
+margin-top: 30px;
+background-color: #66BFBF;
+width: 100%;
+height: 100px;
+
+
+}
+body{
+  text-align: center;
+  margin-top: 0;
+}
+div.skill-row{
+  line-height: 200%;
+}
+
+.image1{
+  width:20%;
+padding-top: 30px;
+}
+.img23{
+width: 20%;
+float : right;
+margin-bottom: 50px;
+position: relative;
+}
+.allign1{
+  width:50%;
+  margin: 10px auto 0;
+}
+.allign{
+  position: relative;
+  width: 60%;
+  margin: 20px auto 20px;
+}
+
+
+.img3{
+width: 20%;
+margin-right:10px;
+float: left;
+
+}
+h1{
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+h3{
+  color: #11999e;
+}
+.colortext{
+  color: #40514E;
+  width: 50%;
+  margin:30px auto  0;
+
+}
+a{
+  color: #11999e;
+}
+
+.top-cloud{
+  position: relative;
+  padding-left: 400px;
+  margin-left: 300px;
+}
+.bottom-cloud{
+  position: absolute;
+  margin-right: 300px;
+
+
+}
+.mount{
+  width: auto;
+  height: auto;
+}
+.margin-top{
+  margin-top: 20px;
+}
+.h12{
+  position:relative;
+  margin-top: 100px;
+margin-left: 40% ;
+
+}
+hr{
+  border-style:dotted;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  border-width:10px;
+  width: 20%;
+  border-color: #EAF6F6;
+}
+.footer-link{
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #11999E;
+
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.bot{
+  color: #EAF6F6;
+}
+.btn{
+  background-color: #11999E;
+  color: white;
+  width: 5%;
+
+
+}
+.skills{
+  padding: 20px ;
+}
+.my{
+  padding: 30px;
+}
+.touch{
+  padding: 10px;
+}
